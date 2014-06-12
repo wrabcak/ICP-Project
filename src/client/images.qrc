@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/map1_thumbnail.jpg</file>
+        <file>images/map2_thumbnail.jpg</file>
+        <file>images/map3_thumbnail.jpg</file>
+        <file>images/block.jpg</file>
+        <file>images/path.jpg</file>
+        <file>images/end.jpg</file>
+        <file>images/gate.jpg</file>
+        <file>images/key.jpg</file>
+        <file>images/player_down.jpg</file>
+        <file>images/player_left.jpg</file>
+        <file>images/player_right.jpg</file>
+        <file>images/player_up.jpg</file>
+        <file>images/hlidac.jpg</file>
+        <file>images/player_blue_down.jpg</file>
+        <file>images/player_red_down.jpg</file>
+        <file>images/player_green_down.jpg</file>
+        <file>images/player_yellow_down.jpg</file>
+        <file>images/player_blue_up.jpg</file>
+        <file>images/player_red_up.jpg</file>
+        <file>images/player_green_up.jpg</file>
+        <file>images/player_yellow_up.jpg</file>
+        <file>images/player_blue_left.jpg</file>
+        <file>images/player_red_left.jpg</file>
+        <file>images/player_green_left.jpg</file>
+        <file>images/player_yellow_left.jpg</file>
+        <file>images/player_blue_right.jpg</file>
+        <file>images/player_red_right.jpg</file>
+        <file>images/player_green_right.jpg</file>
+        <file>images/player_yellow_right.jpg</file>
+
+    </qresource>
+</RCC>
